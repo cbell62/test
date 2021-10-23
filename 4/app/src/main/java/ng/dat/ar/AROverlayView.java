@@ -34,7 +34,7 @@ public class AROverlayView extends View {
 
         //Demo points
         arPoints = new ArrayList<ARPoint>() {{
-            add(new ARPoint("Retardo", 35.58991706122232, -80.89289680233789, 150));
+            add(new ARPoint("Retardo", 35.58991706122232, -80.89289680233789, 250));
             add(new ARPoint("Goofy Goober", 16.1072989, 108.2343984, 0));
         }};
     }
